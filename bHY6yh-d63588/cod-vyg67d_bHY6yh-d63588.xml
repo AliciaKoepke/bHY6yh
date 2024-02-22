@@ -61,10 +61,10 @@
             <head xml:id="bHY6yh-d63588-Hd1e108">Rubrica 12</head>
             <head xml:id="bHY6yh-d63588-Hd1e111" type="question-title">De locutione et auditione inhonestarum actionum</head>
             <p xml:id="bHY6yh-d63588-d1e114">
-               De loqutione et audi$tione 
+               De loqutione et audi<lb ed="#O" break="no"/>tione 
                inhonestarum actionum et 
                <lb ed="#O"/>benigna ac placabili loqutione. 
-               <lb ed="#O"/>Aspera uel regroa et deuerbis ma$lignis 
+               <lb ed="#O"/>Aspera uel regroa et deuerbis ma<lb ed="#O" break="no"/>lignis 
                ac uiciis. Rubrica. 12 et 13. 
             </p>
             <p xml:id="bHY6yh-d63588-d1e123">
@@ -77,7 +77,7 @@
             <p xml:id="bHY6yh-d63588-d1e141"> 
                ¶ <ref xml:id="bHY6yh-d63588-Rd1e136">33 
                <lb ed="#O"/>psalmus.</ref> <quote xml:id="bHY6yh-d63588-Qd1e143">Quis est homo quae uult uitam 
-               <lb ed="#O"/>diligit dies uidere bonos. pro$hibe 
+               <lb ed="#O"/>diligit dies uidere bonos. pro<lb ed="#O" break="no"/>hibe 
                linguam tuam a malo et labia 
                <lb ed="#O"/>tua ne loquantur dolum.</quote>
             </p>
